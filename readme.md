@@ -18,7 +18,7 @@
 
 ## Performance Tweaks
 - [Cryoutilities](https://github.com/CryoByte33/steam-deck-utilities) - Gain a small performance boost in most games. 
-- [BIOS Undervolt]() - As of SteamOS 3.5, Valve officially added options so you can now undervolt your deck from the BIOS easily. Youstand to gain a small performance boost and improve your battery life by pushing your undervolt as far as you can while maintaining stability. Each deck is different, so you will have to experiment to find what works for your particular chip. I have mine set to -30mv across the three options. No link for this one but you can boot to the BIOS by **holding the volume up button while powering on the deck**. If you push the undervolt too far and can't boot your deck, you can reset the CMOS by holding down the **Volume Down button, 3 dot button, and power button** while powering on the deck, which will reset all your BIOS settings to stock and let the deck boot normally. 
+- [BIOS Undervolt](https://youtu.be/Roi6lvrcH-I?si=Q8nvUFDA5klv1oUl&t=57) - As of SteamOS 3.5, Valve officially added options so you can now undervolt your deck from the BIOS easily. You stand to gain a small performance boost and improve your battery life by pushing your undervolt as far as you can while maintaining stability. Each deck is different, so you will have to experiment to find what works for your particular chip. I have mine set to -30mv across the three options. No link for this one but you can boot to the BIOS by **holding the volume up button while powering on the deck**. If you push the undervolt too far and can't boot your deck, you can reset the CMOS by holding down the **Volume Down button, 3 dot button, and power button** while powering on the deck, which will reset all your BIOS settings to stock and let the deck boot normally. Note the linked video is from when SteamOS 3.5 was in beta, but since it has been released to the stable channel, you don't need to switch your deck to the beta or preview channels to access the BIOS options.
 
 
 ## Decky Loader and Recommended Plugins
@@ -33,7 +33,7 @@
 
 ## Emulation
 - [Emudeck](https://www.emudeck.com) - Installs a whole bunch emulators automatically and sets up a nice folder structure to keeps your roms and saves organized. 
-- [RetroDECK](https://www.emudeck.com) - An alternative to Emudeck that you can find on the Discover store, installs the same emulators as Emudeck, but all within a single flatpak. A bit of a philosophical difference between the two projects. Emudeck is probably more popular, but you can decide for yourself. 
+- [RetroDECK](https://retrodeck.net/) - An alternative to Emudeck that you can find on the Discover store, installs the same emulators as Emudeck, but all within a single flatpak. A bit of a philosophical difference between the two projects. Emudeck is probably more popular, but you can decide for yourself. 
 
 ## Utilities
 - [Enable SSHD and SSHFS](https://www.youtube.com/watch?v=6GT67H8Xsjs) - the easiest way to transfer files to and from your Deck from another computer.
