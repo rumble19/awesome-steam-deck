@@ -26,9 +26,9 @@
     - **WineCellar** - Install and manage custom Proton builds (GE and others) without leaving game mode. Handy for games that don't work with the default Proton version for whatever reason. 
     - **Pause Games** - Lets you suspend games while the deck is still on. An option to 'pause games on sleep' generally increases compatibility with games that otherwise are finicky resuming from the deck's sleep mode.
     - **ProtonDB Badges** - Adds a badge and a link to ProtonDB for each game in your library. 
+    - **SteamGridDB** - Add, find, and change grid artwork from the built-in steam menu. 
     - **CSS Loader** - Skin SteamOS with all kinds of community made themes and tweaks.
     - **HLTB** - Adds estimated completion times to your library. 
-    - **SteamGridDB** - Add, find, and change grid artwork from the built-in steam menu. 
     - **Animation Changer** - Add, find, and randomly display custom boot videos made by the community.
     - **AutoFlatpak** - A handy way to keep your installed flatpaks up-to-date without having to jump over to Desktop mode. 
 
