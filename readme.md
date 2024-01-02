@@ -23,7 +23,6 @@
 
 ## Decky Loader and Recommended Plugins
 - [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) - Adds a plugin store and menu items in the quick access menu to increase functionality and customizability of SteamOS. Once installed, I consider the following as must have plugins:
-    - **WineCellar** - Install and manage custom Proton builds (GE and others) without leaving game mode. Handy for games that don't work with the default Proton version for whatever reason. 
     - **Pause Games** - Lets you suspend games while the deck is still on. An option to 'pause games on sleep' generally increases compatibility with games that otherwise are finicky resuming from the deck's sleep mode.
     - **ProtonDB Badges** - Adds a badge and a link to ProtonDB for each game in your library. 
     - **SteamGridDB** - Add, find, and change grid artwork from the built-in steam menu. 
@@ -45,6 +44,7 @@
   
 ## From Discover
 Apps to install from the built-in Discover store from Desktop Mode.
+- **ProtonUp-QT** - Install and manage custom (GE) Proton builds. Handy for games that don't work with the default Proton version for whatever reason. 
 - **ProtonTricks** - Very useful tool to manage finicky games that require extra tweaks to run correctly. This can help with a bunch of mod installers as well. Lets you right-click an exe and run it in an game prefix.
 - **Anydesk** - Easy, free, and cross-platform remote desktop software. I do most of my Deck setup and management from my PC using Anydesk.
 - **Moonlight** - Stream games from your PC to your Deck. Useful for AAA games that don't run well on the Deck. Need to set up Nvidia Gamestream or [Sunshine](https://github.com/LizardByte/Sunshine) on your PC first.
