@@ -40,6 +40,7 @@
 - [Xone Installer](https://gist.github.com/cdleveille/e84c235c6e8c17042d35a7c0d92cdc96) - A script to enable support for the 2.4ghz dongle for Xbox One controllers. Enables you to wake the deck up from sleep with the controller as well. This will need to be rerun after steam updates, but the script has a convenient desktop shortcut included.
 - [Shortix](https://github.com/Jannomag/shortix) - A script that creates human readable symlinks for Proton game prefixes. 
 - [NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Automatic installation of the most popular third-party launchers.
+- [XBPlay](https://store.steampowered.com/app/2693120/XBPlay/) - The only non-free recommendation on this list. A great way to stream your Xbox One or Series X/S locally to your Deck, or from the cloud with a subscription to xCloud. Now available directly through Steam. [Greenlight](https://github.com/unknownskl/greenlight) is a free alternative, but I had a better experience with XBPlay.
   
 ## From Discover
 Apps to install from the built-in Discover store from Desktop Mode.
@@ -48,7 +49,6 @@ Apps to install from the built-in Discover store from Desktop Mode.
 - **ProtonTricks** - Very useful tool to manage finicky games that require extra tweaks to run correctly. This can help with a bunch of mod installers as well. Lets you right-click an exe and run it in an game prefix.
 - **Anydesk** - Easy, free, and cross-platform remote desktop software. I do most of my Deck setup and management from my PC using Anydesk.
 - **Moonlight** - Stream games from your PC to your Deck. Useful for AAA games that don't run well on the Deck. Need to set up Nvidia Gamestream or [Sunshine](https://github.com/LizardByte/Sunshine) on your PC first.
-- **xbPlay** - The only non-free recommendation on this list. A great way to stream your Xbox One or Series X/S locally to your Deck, or from the cloud with a subscription to xCloud. [Greenlight](https://github.com/unknownskl/greenlight) is a free alternative, but I had a better experience with xbPlay.
 - **Chiaki** - Stream your PS4 or PS5 locally to your Deck.
 - **SyncthingGTK** - Seamlessly keep a folder in sync between your Deck and another computer. I use this to keep emulator saves in sync from my Deck to my PC.
 - **Heroic Launcher** - Alternative launcher for Epic Games Store and GOG. Allows you to sign in and install games from either library. 
@@ -58,7 +58,7 @@ Apps to install from the built-in Discover store from Desktop Mode.
 Strictly optional, interest dependant projects that I just think are cool. Maybe you will too!
 - [Ship of Harkinian](https://www.shipofharkinian.com/) - A native port of Zelda: Occarina of Time. Runs in native resolutions, 60fps+, with a ton of quality of life improvements and a built-in randomizer.
 - [Bloodborne PSX](https://b0tster.itch.io/bbpsx) - An incredibly imaginative demake of Bloodborne in the style of a PS1 game. Runs perfect on the Deck. 
-- [Apotris](https://akouzoukos.com/apotris) - A modern take on Tetris with a ton of modes and options packaged as a Gameboy Advance rom. You'll need to install an emulator to run it, see the [emulation](#emulation) section above.
+- [Apotris](https://akouzoukos.com/apotris) - A modern take on Tetris with a ton of modes and options packaged as a Gameboy Advance rom. Currently, you'll need to install an emulator to run it, see the [emulation](#emulation) section above.
 - [Sunshine](https://github.com/LizardByte/Sunshine) - A free alternative to Nvidia GameStream for streaming games from your PC to your Deck. Works with AMD as well as Nvidia GPUs.
 
 ## Contribute
