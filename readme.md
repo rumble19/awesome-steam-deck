@@ -18,17 +18,18 @@
 
 ## Performance Tweaks
 - [Cryoutilities](https://github.com/CryoByte33/steam-deck-utilities) - Gain a small performance boost in most games. 
-- [BIOS Undervolt](https://youtu.be/Roi6lvrcH-I?si=Q8nvUFDA5klv1oUl&t=57) - As of SteamOS 3.5, Valve officially added options so you can now undervolt your deck from the BIOS easily. You stand to gain a small performance boost and improve your battery life by pushing your undervolt as far as you can while maintaining stability. Each deck is different, so you will have to experiment to find what works for your particular chip. I have mine set to -30mv across the three options. No link for this one but you can boot to the BIOS by **holding the volume up button while powering on the deck**. If you push the undervolt too far and can't boot your deck, you can reset the CMOS by holding down the **Volume Down button, 3 dot button, and power button** while powering on the deck, which will reset all your BIOS settings to stock and let the deck boot normally. Note the linked video is from when SteamOS 3.5 was in beta, but since it has been released to the stable channel, you don't need to switch your deck to the beta or preview channels to access these new BIOS options.
+- [BIOS Undervolt](https://youtu.be/Roi6lvrcH-I?si=Q8nvUFDA5klv1oUl&t=57) - As of SteamOS 3.5, Valve officially added options so you can now undervolt your deck from the BIOS easily. You stand to gain a small performance boost and improve your battery life by pushing your undervolt as far as you can. Pushing it too far can result in instability, however. Each deck is different, so you will have to experiment to find what works for your particular chip. I have mine set to -30mv across the three options. The linked video has pretty clear instructions but you can boot to the BIOS by **holding the volume up button while powering on the deck**. If you push the undervolt too far and your deck wont boot, you can reset the CMOS by holding down the **Volume Down button, 3 dot button, and power button** while powering on the deck, which will reset all your BIOS settings to stock and let the deck boot normally. Note the linked video is from when SteamOS 3.5 was in beta, but since it has been released to the stable channel, you don't need to switch your deck to the beta or preview channels to access these new BIOS options.
 
 
 ## Decky Loader and Recommended Plugins
 - [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) - Adds a plugin store and menu items in the quick access menu to increase functionality and customizability of SteamOS. Once installed, I consider the following as must have plugins:
-    - **Pause Games** - Lets you suspend games while the deck is still on.An option to pause games on sleep generally increases compatibility with games that otherwise are finicky on sleep.
+    - **WineCellar** - Install and manage custom Proton builds (GE and others) without leaving game mode. Handy for games that don't work with the default Proton version for whatever reason. 
+    - **Pause Games** - Lets you suspend games while the deck is still on. An option to 'pause games on sleep' generally increases compatibility with games that otherwise are finicky resuming from the deck's sleep mode.
+    - **ProtonDB Badges** - Adds a badge and a link to ProtonDB for each game in your library. 
     - **CSS Loader** - Skin SteamOS with all kinds of community made themes and tweaks.
     - **HLTB** - Adds estimated completion times to your library. 
     - **SteamGridDB** - Add, find, and change grid artwork from the built-in steam menu. 
     - **Animation Changer** - Add, find, and randomly display custom boot videos made by the community.
-    - **ProtonDB Badges** - Adds a badge and a link to ProtonDB for each game in your library. 
     - **AutoFlatpak** - A handy way to keep your installed flatpaks up-to-date without having to jump over to Desktop mode. 
 
 ## Emulation
@@ -44,8 +45,6 @@
   
 ## From Discover
 Apps to install from the built-in Discover store from Desktop Mode.
-
-- **ProtonUp-QT** - Install and manage custom (GE) Proton builds. Handy for games that don't work with the default Proton version for whatever reason. 
 - **ProtonTricks** - Very useful tool to manage finicky games that require extra tweaks to run correctly. This can help with a bunch of mod installers as well. Lets you right-click an exe and run it in an game prefix.
 - **Anydesk** - Easy, free, and cross-platform remote desktop software. I do most of my Deck setup and management from my PC using Anydesk.
 - **Moonlight** - Stream games from your PC to your Deck. Useful for AAA games that don't run well on the Deck. Need to set up Nvidia Gamestream or [Sunshine](https://github.com/LizardByte/Sunshine) on your PC first.
