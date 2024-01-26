@@ -37,7 +37,7 @@
 
 ## Utilities
 - [Enable SSHD and SSHFS](https://www.youtube.com/watch?v=6GT67H8Xsjs) - the easiest way to transfer files to and from your Deck from another computer.
-- [Xone Installer](https://gist.github.com/cdleveille/e84c235c6e8c17042d35a7c0d92cdc96) - A script to enable support for the 2.4ghz dongle for Xbox One controllers. Enables you to wake the deck up from sleep with the controller as well. This will need to be rerun after steam updates, but the script has a convenient desktop shortcut included.
+- [Xone Installer](https://gist.github.com/SavageCore/263a3413532bc181c9bb215c8fe6c30d) - A script to enable support for the 2.4ghz dongle for Xbox One controllers. Enables you to wake the deck up from sleep with the controller as well. This will need to be rerun after steam updates, but the script has a convenient desktop shortcut included.
 - [Shortix](https://github.com/Jannomag/shortix) - A script that creates human readable symlinks for Proton game prefixes. 
 - [NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) - Automatic installation of the most popular third-party launchers.
 - [XBPlay](https://store.steampowered.com/app/2693120/XBPlay/) - The only non-free recommendation on this list. A great way to stream your Xbox One or Series X/S locally to your Deck, or from the cloud with a subscription to xCloud. Now available directly through Steam. [Greenlight](https://github.com/unknownskl/greenlight) is a free alternative, but I had a better experience with XBPlay.
