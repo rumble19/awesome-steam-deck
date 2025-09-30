@@ -55,7 +55,6 @@ Strictly optional, interest dependant projects that I just think are cool. Maybe
 - [Bloodborne PSX](https://b0tster.itch.io/bbpsx) - An incredibly imaginative demake of Bloodborne in the style of a PS1 game. Runs perfect on the Deck. 
 - [Apotris](https://akouzoukos.com/apotris) - A modern take on Tetris with a ton of modes and options packaged as a Gameboy Advance rom. Currently, you'll need to install an emulator to run it, see the [emulation](#emulation) section above.
 - [Apollo](https://github.com/ClassicOldSong/Apollo) - A free alternative to Nvidia GameStream for streaming games from your PC to your Deck. Works with AMD as well as Nvidia GPUs. Apollo is a fork of Sunshine that adds convient virtual display support so you can stream native resolusions easily to your Deck.
-- 
 
 ## Contribute
 
